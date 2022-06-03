@@ -1,0 +1,7 @@
+Fazer transcrição das anotações (do papel para o PC).
+
+Noções básicas de git/github.
+O que é git? Sistema distribuído: Servidor (Remote repository); Ambiente de Desenvolvimento (working directory, staging area, local repository)
+
+commits -> trees -> blobs
+etc...
